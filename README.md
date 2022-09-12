@@ -2,13 +2,6 @@
 
 This is the first line in the repo
 
-## Ipsum Below
+## Website contents
 
-Bla Ba Bla
-Test
-Test
-
-## Some more upsum
-
-bla bla
-test test test
+1. index.html
